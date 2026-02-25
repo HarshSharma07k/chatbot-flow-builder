@@ -667,3 +667,11 @@ export default defineConfig([
   },
 ])
 ```
+
+---
+
+## Author
+
+**Harsh Sharma**  
+B.Tech Information Technology  
+National Institute of Technology, Kurukshetra
